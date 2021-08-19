@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My Portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a website where I will be showcasing all my progress on Github and different progress I will do by myself ...
